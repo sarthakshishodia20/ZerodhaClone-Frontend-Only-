@@ -1,16 +1,14 @@
 import React from 'react';
+import SignUp from './SignUp';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
-import Team from './Team';
-import Hero from './Hero';
 
-function AboutPage() {
+function SignupPage() {
     return ( <>
     <div>
-        <Hero/>
-        <Team/>
+        <SignUp/>
     </div>
     </> );
 }
 
-export default AboutPage;
+export default SignupPage;
