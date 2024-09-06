@@ -69,7 +69,7 @@ function Footer() {
         </div>
       </div>
       <div className="container pt-1 border-top mt-5">
-        <p className="pt-4">
+        <p className="pt-4 text-muted">
           Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration
           no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha
           Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading
@@ -83,21 +83,21 @@ function Footer() {
           by SEBI | ICF
         </p>
 
-        <p className="pt-4">
+        <p className="pt-4 text-muted">
           Procedure to file a complaint on SEBI SCORES: Register on SCORES
           portal. Mandatory details for filing complaints on SCORES: Name, PAN,
           Address, Mobile Number, E-mail ID. Benefits: Effective Communication,
           Speedy redressal of the grievances
         </p>
 
-        <p className="pt-4">xSmart Online Dispute Resolution | Grievances Redressal Mechanism</p>
+        <p className="pt-4 text-muted">xSmart Online Dispute Resolution | Grievances Redressal Mechanism</p>
 
-        <p className="pt-4">
+        <p className="pt-4 text-muted">
           Investments in securities market are subject to market risks; read all
           the related documents carefully before investing.
         </p>
 
-        <p className="pt-4">
+        <p className="pt-4 text-muted">
           Attention investors: 1) Stock brokers can accept securities as margins
           from clients only by way of pledge in the depository system w.e.f
           September 01, 2020. 2) Update your e-mail and phone number with your
@@ -107,7 +107,7 @@ function Footer() {
           statement issued by NSDL/CDSL every month.
         </p>
 
-        <p className="pt-4">
+        <p className="pt-4 text-muted">
           "Prevent unauthorised transactions in your account. Update your mobile
           numbers/email IDs with your stock brokers. Receive information of your
           transactions directly from Exchange on your mobile/email at the end of
