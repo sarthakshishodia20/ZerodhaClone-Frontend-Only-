@@ -14,10 +14,13 @@ code {
 
 .nav-link{
   margin-left: 3rem;
-  font-weight: bold;
+  /* font-weight: bold; */
+  font-family: 'Times New Roman', Times, serif;
 }
 nav {
   border-bottom: 1px solid #ccc; /* Light grey border */
+  height: 80px;
+  font-weight: bold;
 }
 
 nav{
@@ -32,4 +35,32 @@ li{
 li a{
   text-decoration: none;
   color: rgb(24, 24, 24);
+}
+.account:hover{
+  color:#2a7edd;
+  cursor: pointer;
+}
+#support{
+  background-color: #2a7edd;
+  color: white;
+  height: 500px;
+
+}
+#supportInput{
+  height: 70px;
+  width: 90%;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+.fa-magnifying-glass{
+  font-size: 30px;
+  padding: 2px;
+  margin-left: 0.4rem;
+}
+.supportLink{
+  color: white;
+  font-size: 17px;
+  padding: 17px;
+  padding-top: 20px;
 }
